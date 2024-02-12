@@ -1,0 +1,16 @@
+header{
+	width: 100%;
+	height: 50px;
+	background: darkred;
+}
+div{
+	with: 25px;
+	height: 25px;
+	margin: 20px;
+	background: blueviolet;
+}
+img, video, iframe{
+	width: 250px;
+	height: 250px;
+	margin: 20px;
+}
